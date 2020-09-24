@@ -15,7 +15,7 @@ public class Question5 {
 		seconds=inputSeconds%60;
 		System.out.println("input second is "+inputSeconds);
 		
-		System.out.println((int)hours+" hours, "+(int)minutes+" minutes, "+seconds+" seconds");
+		System.out.println(hours+" hours, "+minutes+" minutes, "+seconds+" seconds");
 		//+":"+minutes+":"+seconds);
 		
 		
